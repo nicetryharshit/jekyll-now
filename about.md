@@ -9,11 +9,3 @@ I'm Harshit Dubey, a video game programmer with ~3 years of experience. I have w
 I'm also an avid gamer and am fond of narrative-driven as well as competitive multiplayer games. Although, currently I work on smartphone games of smaller scale and scope which have become immensely popular due to the sudden rise of mobile gaming, my aim is to make better video games for consoles and PC.
 
 I'm primarily a programmer, but I frequently dabble in the game design and a bit of creative coding.
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[harshitdubeyhd@gmail.com](mailto:email@domain.com)
